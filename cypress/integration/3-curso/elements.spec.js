@@ -67,7 +67,7 @@ describe('Work with basic elements', ()=>{
             .click({multiple:true})
 
            })
-///tetsetsests
+///tetsetsests modificado aqui agora!
            it.only('select', ()=>{
 
             cy.get('[data-test=dataEscolaridade]')
